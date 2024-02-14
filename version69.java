@@ -1,0 +1,6 @@
+public class version69
+{
+    public static void main(String[]args){
+        System.out.println("Hello World - Version69");
+    }
+}
